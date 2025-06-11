@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "3cd13ea507a9da8aa9c41d8f58c43bdf60a74ca569947285fd1e4ef9570af353"
+            "sha256": "e4fb469bfa9fe7c99763acacb1c679bbabd48b07d49947d2fa016f54cd71b421"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -676,6 +676,7 @@
                 "sha256:164302f6d4b6c44773dfc38d585665a4db401a16e5296c37df5cba63904fbdea",
                 "sha256:a94c32fd7f8b93e82a49dc70a6ec45a5c18281ca2a7228d12765e4e210e5bca2"
             ],
+            "index": "pypi",
             "markers": "python_version >= '3.9'",
             "version": "==4.4.3"
         },
@@ -1357,11 +1358,11 @@
         },
         "requests": {
             "hashes": [
-                "sha256:55365417734eb18255590a9ff9eb97e9e1da868d4ccd6402399eaf68af20a760",
-                "sha256:70761cfe03c773ceb22aa2f671b4757976145175cdfca038c02654d061d6dcc6"
+                "sha256:27babd3cda2a6d50b30443204ee89830707d396671944c998b5975b031ac2b2c",
+                "sha256:27d0316682c8a29834d3264820024b62a36942083d52caf2f14c0591336d3422"
             ],
             "markers": "python_version >= '3.8'",
-            "version": "==2.32.3"
+            "version": "==2.32.4"
         },
         "rfc3339-validator": {
             "hashes": [

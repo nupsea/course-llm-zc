@@ -10,6 +10,7 @@ openai = "*"
 elasticsearch = "*"
 scikit-learn = "*"
 pandas = "*"
+jupyterlab = "*"
 
 [dev-packages]
 
