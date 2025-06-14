@@ -7,10 +7,13 @@ name = "pypi"
 tqdm = "*"
 notebook = "*"
 openai = "*"
-elasticsearch = "*"
 scikit-learn = "*"
 pandas = "*"
 jupyterlab = "*"
+minsearch = "*"
+requests = "*"
+elasticsearch = "==8.17"
+tiktoken = "*"
 
 [dev-packages]
 
