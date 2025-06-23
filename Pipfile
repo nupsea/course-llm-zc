@@ -14,6 +14,8 @@ minsearch = "*"
 requests = "*"
 elasticsearch = "==8.17"
 tiktoken = "*"
+qdrant-client = {extras = ["fastembed"], version = ">=1.14.2"}
+python-dotenv = "*"
 
 [dev-packages]
 
